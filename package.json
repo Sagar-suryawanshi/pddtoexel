@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pdf-parse": "^1.1.1",
+    "pdf-parser": "^1.0.5",
+    "pdf-to-excel": "^0.3.2",
+    "pdfjs": "^2.5.3",
+    "pdfjs-dist": "^4.3.136",
+    "tabula": "^1.10.0",
+    "xlsx": "^0.18.5"
+  }
+}
